@@ -50,6 +50,7 @@ Sou esposa e mãe orgulhosa de 4 filhos, a quem dedico todo o meu trabalho. *"Eu
   <img src="./badges/azure/azure-fundamentals-ms-900.png" alt="MS-900 Microsoft 365 Fundamentals" width="100">
   <img src="./badges/azure/azure-fundamentals-sc-900.png" alt="SC-900 Security, Compliance, and Identity" width="100">
   <img src="./badges/azure/sc200.png" alt="SC-200 Security Operations Analyst" width="100">
+  <img src="./badges/azure/mb910.png" alt="MB-910 Dynamics 365 Fundamentals" width="100">
 </p>
 
 *Microsoft Power Platform & Dynamics*
