@@ -31,11 +31,11 @@ Atuo na interseção entre engenharia de software rigorosa e execução ágil, a
 ### 💡 Perfil
 
 Movida pela curiosidade técnica e por resolver problemas complexos através da tecnologia. Fora do ambiente corporativo, sou ávida leitora de *hard sci-fi* e fantasia épica e cultivo árvores frutíferas na minha casa. 
-Ultimo livro lido : "Devadorores de estrelas -Project Hail Mary-Andy Weir
-                    "Perdido em MArte "  - Andy Weir 
-                    
+**Últimos livros lidos:** *"Devoradores de Estrelas (Project Hail Mary)"* e *"Perdido em Marte"* - Andy Weir.
+
 Também me dedico ao desenvolvimento de jogos (Godot Engine), já tendo colaborado em projetos de games em parceria com outros desenvolvedores. Meu objetivo é sempre unir engenharia sólida, criatividade e impacto real no negócio.
-Sou esposa e mãe orgulhosa de 4 filhos , a eles eu dedico todo o meu trabalho . "Eu sei que voces vão longe ...."
+
+Sou esposa e mãe orgulhosa de 4 filhos, a quem dedico todo o meu trabalho. *"Eu sei que vocês vão longe, vão alcançar lugares maiores e mais altos."*🚀🚀🚀
 
 
 ---
